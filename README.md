@@ -10,7 +10,7 @@
 
 This EFI does not include the SMBIOS, to configure it we have two options:
 
-- [Using Third Party Software (easier)]([https://github.com/sxn4y/dell-latitude-7480-opencore-efi/edit/main/README.md#using-third-party-software](https://github.com/sxn4y/dell-latitude-7480-opencore-efi?tab=readme-ov-file#using-third-party-software))
+- [Using Third Party Software (easier)](https://github.com/sxn4y/dell-latitude-7480-opencore-efi?tab=readme-ov-file#using-third-party-software)
 - [Using GenSMBIOS (official method).](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo)
 
 ### Using Third Party Software:
